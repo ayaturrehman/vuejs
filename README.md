@@ -1,4 +1,4 @@
-# hello-world
+# Vue Calculator
 
 ## Project setup
 ```
